@@ -1,3 +1,7 @@
+<head>
+    <link rel="icon" href="title.png" type="image/x-icon">
+</head>
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Neha Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -29,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bestfriends3243&show_icons=true&locale=en&layout=compact" alt="bestfriends3243" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bestfriends3243&" alt="bestfriends3243" /></p>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
